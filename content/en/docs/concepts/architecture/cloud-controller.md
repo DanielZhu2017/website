@@ -256,6 +256,7 @@ The following cloud providers have implemented CCMs:
 * Azure
 * GCE
 * AWS
+* IBM Cloud
 
 ## Cluster Administration
 
